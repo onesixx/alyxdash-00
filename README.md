@@ -3,8 +3,9 @@ AlyxDash is a Python package that does something really useful.
 
 ## Installation
 You can install AlyxDash using pip:
+```shell
 pip install -e .
-
+```
 
 ## Usage
 Here's an example of how to use AlyxDash:
